@@ -1,4 +1,4 @@
-let name = "hello world"
+name = "hello world"
 puts name
 
 name
